@@ -7,7 +7,7 @@ Scraping_website uses BeautifulSoup (bs4) and requests library of python which p
 ### Steps to Run
  - Clone the repository
  - Open directory
- - pip install bs4
+ - Run - pip install bs4
  - Run - python3 web_scraping.py
  - A csv file will be created with name data.csv
 
